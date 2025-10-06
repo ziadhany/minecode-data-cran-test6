@@ -1,0 +1,17 @@
+- pkg:cran/lightgbm@3.0.0
+- pkg:cran/lightgbm@3.0.0.2
+- pkg:cran/lightgbm@3.1.0
+- pkg:cran/lightgbm@3.1.1
+- pkg:cran/lightgbm@3.2.0
+- pkg:cran/lightgbm@3.2.1
+- pkg:cran/lightgbm@3.3.0
+- pkg:cran/lightgbm@3.3.1
+- pkg:cran/lightgbm@3.3.2
+- pkg:cran/lightgbm@3.3.3
+- pkg:cran/lightgbm@3.3.4
+- pkg:cran/lightgbm@3.3.5
+- pkg:cran/lightgbm@4.2.0
+- pkg:cran/lightgbm@4.3.0
+- pkg:cran/lightgbm@4.4.0
+- pkg:cran/lightgbm@4.5.0
+- pkg:cran/lightgbm@4.6.0
